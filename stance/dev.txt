@@ -1,0 +1,492 @@
+C	Should parents be allowed to choose the gender of their children	Low fertility which increases the need for sex selection by reducing the probability of having a daughter in smaller families.	96_4	1
+C	Should parents be allowed to choose the gender of their children	In many cultures, male offspring are desired in order to inherit property, carry on the family name and to provide support for parents in old age.	96_4	1
+C	Should you invest in renewable technologies	As renewable energy technologies expand worldwide, conservationists are concerned about the potential negative impacts of these technologies on animals, especially birds.	47_15	-1
+C	Should you invest in renewable technologies	U.S. News and World Report examined the issue in an August 22 article, and found that among the five most common energy sources, solar caused the least amount of bird deaths per year, while coal caused the largest amount.	47_15	1
+C	Should we legalize the sale of human organs?	However, this autonomy is limited in organ trade as governments and some ethicist argue the potential harm of organ trade outweighs the rights of an individual.	58_3	-1
+C	Should we legalize the sale of human organs?	Increased organ supply	58_3	1
+C	Should we legalize the sale of human organs?	Each organ sold on a market could potentially save the life (and improve the quality of life) of its recipient [ref].	58_3	1
+C	Should we legalize the sale of human organs?	Proponents also assert that organ sales ought to be legal because the procedure is relatively safe for donors [ref].	58_3	1
+C	Should we legalize the sale of human organs?	Specifically, they cite research suggesting that individuals who sell their organs fare worse after the procedure than those who freely donate their organs.	58_3	-1
+C	Should we legalize the sale of human organs?	Other physicians and philosophers argue that legalization will remedy the abuses of the illicit trade in organs [ref].	58_3	1
+C	Should we legalize the sale of human organs?	Critics often argue that organ sales should remain prohibited because any market solution will take advantage of the poor.	58_3	-1
+C	Should we legalize the sale of human organs?	In particular, they note that legalized organ sales may “crowd out” altruistic donations [ref].	58_3	-1
+C	Should we legalize the sale of human organs?	Rather, they say that the dangers posed by donating an organ are too great to allow a person to voluntarily undertake them in exchange for money.	58_3	-1
+C	Should we legalize the sale of human organs?	A market for organs would reduce body parts to commodities to be bought and sold.	58_3	-1
+C	Should we legalize the sale of human organs?	Legalizing organ sales would create this unwanted pressure (and attendant disapproval) for all poor individuals, regardless of whether or not they wished to sell their kidneys.	58_3	-1
+C	Should we legalize the sale of human organs?	state that a free market for organs would only increase already high prices for organs[citation needed], creating an imbalance: only wealthy individuals would be able to purchase these organs.	58_3	-1
+C	Should we accept multiculturalism	One Nation campaigned strongly against official multiculturalism, arguing that it represented a threat to the very basis of the Australian culture, identity and shared values and that there was no reason why migrant cultures should be maintained at the expense of our shared, national culture [ref].	117_4	-1
+C	Should we accept multiculturalism	Chipman and Knopfelmacher were concerned with threats to social cohesion, while Birrell's concern was that multiculturalism obscures the social costs associated with large scale immigration that fall most heavily on the most recently arrived and unskilled immigrants.	117_4	-1
+C	Should we accept multiculturalism	He argued that political parties were instrumental in pursuing multicultural policies, and that these policies would put strain on the political system and would not promote better understanding in the Australian community [ref].	117_4	-1
+C	Should we accept multiculturalism	He argued that the evidence is clear that many multicultural societies have failed and that the human cost of the failure has been high and warned that we should think very carefully about the perils of converting Australia into a giant multicultural laboratory for the assumed benefit of the peoples of the world [ref].	117_4	-1
+C	Should we accept multiculturalism	It threatens social cohesion.	117_4	-1
+C	Should we accept multiculturalism	In exploring the discourse of multiculturalism others have argued that the threat to social cohesion and national identity have been overstated [ref].	117_4	1
+C	Should you restrict reality TV	Critics argue that reality shows have a negative impact on the psyche of the audience, especially young people with more immature taste, character and beliefs: they activate morbid curiosity and take not quite adequate behavior of participants as a role model (Manning, 2013) .	100_14	-1
+C	Should you restrict reality TV	Experts from Villanova University and the University of Ragers say that the increased interest of teenagers to plastic surgery can be partly caused by numerous reality shows that are constantly shown on television (Geraghty, 2013).	100_14	1
+C	Should you restrict reality TV	Critics say about its harmful effects on the audience, as it blurs the traditional boundaries between reality and illusion, confusing audience and manipulating its sense of reality (Green, 2013).	100_14	1
+C	Should you restrict reality TV	But reality shows bring huge profits to channel, thanks to the audience who support the heroes through voting.	100_14	-1
+C	Should you restrict reality TV	One of the negative effects of reality shows: they show teenagers (its main audience) quick fame and easy money.	100_14	1
+C	Should you restrict reality TV	Many reality shows promote mass smoking.	100_14	1
+C	Should you restrict reality TV	Also, reality shows often promote premarital sex, once considered shameful.	100_14	1
+C	Should you restrict reality TV	It was found that reality shows have helped the girls to become more open in terms of communication, motivated them and pushed for social activity.	100_14	-1
+C	Should you restrict reality TV	Any reality show gives family members an opportunity to communicate with each other, because they create the illusion of reality.	100_14	-1
+C	Should you restrict reality TV	Such shows can help a person get rid of loneliness.	100_14	-1
+C	Should abortion be prohibited	Making safe abortion legal and accessible reduces maternal deaths [ref].	118_1	-1
+C	Should abortion be prohibited	When performed legally and safely on a woman who desires it, induced abortions do not increase the risk of long-term mental or physical problems [ref].	118_1	-1
+C	Should abortion be prohibited	Those who oppose abortion often argue that an embryo or fetus is a human with a right to life, and they may compare abortion to murder [ref].	118_1	1
+C	Should abortion be prohibited	Those who support the legality of abortion often hold that it is part of a woman's right to make decisions about her own body [ref].	118_1	-1
+C	Should abortion be prohibited	Legal abortions performed in the developed world are among the safest procedures in medicine [ref].	118_1	-1
+C	Should abortion be prohibited	Major medical and scientific bodies (including the World Health Organization, National Cancer Institute, American Cancer Society, Royal College of OBGYN and American Congress of OBGYN) have concluded that abortion does not cause breast cancer [ref].	118_1	-1
+C	Should abortion be prohibited	In the past even illegality has not automatically meant that the abortions were unsafe.	118_1	-1
+C	Should abortion be prohibited	Current evidence finds no relationship between most induced abortions and mental-health problems[13][111] other than those expected for any unwanted pregnancy [ref].	118_1	-1
+C	Should abortion be prohibited	This can lead to severe complications, such as incomplete abortion, sepsis, hemorrhage, and damage to internal organs [ref].	118_1	1
+C	Should abortion be prohibited	Unsafe abortions are a major cause of injury and death among women worldwide.	118_1	1
+C	Should abortion be prohibited	The Dublin Declaration on Maternal Health, signed in 2012, notes, the prohibition of abortion does not affect, in any way, the availability of optimal care to pregnant women [ref].	118_1	1
+C	Should abortion be prohibited	Sex-selective abortion is partially responsible for the noticeable disparities between the birth rates of male and female children in some countries.	118_1	1
+C	Should we stop the development of the Arctic	However, a January study in Nature showed that we cannot develop any Arctic energy sources if we want to have a chance of keeping warming below the two-degree Celsius threshold required to avoid a climate catastrophe.	59_5	1
+C	Should we protect endangered animals?	Besides, surely it's more important to take care of humans – who, let's face it, have their own problems to worry about – than to spend millions of dollars preserving animals.	122_2	-1
+C	Should we protect endangered animals?	The most obvious is the staggering cost involved.	122_2	-1
+C	Should we protect endangered animals?	Species go extinct all the time anyway.	122_2	-1
+C	Should we protect endangered animals?	One answer is that species are now going extinct far faster than they used to.	122_2	1
+C	Should we protect endangered animals?	But beyond that, there's a simple reason to save species: because we want to.	122_2	1
+C	Should we protect endangered animals?	In other words, conserving nature is a staggeringly good investment.	122_2	1
+C	Should we protect endangered animals?	By contrast, letting species decline and go extinct looks like a bad move.	122_2	1
+C	Should we protect endangered animals?	Our pleasure at the beauty of nature can now be thought of as an ecosystem service.	122_2	1
+C	Should we protect endangered animals?	Nature provides us with beauty.	122_2	1
+C	Should we protect endangered animals?	Even if you don't buy the moral argument that wild things and places have incalculable intrinsic value, there are hard-nosed practical reasons to save them.	122_2	1
+C	Should we ban the production of generic drugs	Generic drugs often cost 30% to 50% less than brand name drugs.	61_10	-1
+C	Should we legalize the sale of human organs?	Professor Nadey Hakim, a Harley Street surgeon, and one of the world's leading transplant surgeons, believes that a properly regulated market should be permitted so that the black market in organs is, if not destroyed, at least dramatically reduced.	58_10	1
+C	Should we legalize the sale of human organs?	It's time to consider it because this country, to its eternal shame, has allowed a completely unnecessary shortage for 30 years.	58_10	1
+C	Should we legalize the sale of human organs?	Mr Rigg fears that introducing a regulated organ market would attract paid donors at the expense of voluntary donors.	58_10	-1
+C	Should we legalize the sale of human organs?	I don't believe we should be commercialising parts of our bodies, said Professor Anthony Warrens, Dean of Education at The London School of Medicine and Dentistry, adding that the most disadvantaged people would end up selling parts of their bodies, potentially with disregard for the risks involved.	58_10	-1
+C	Should we legalize the sale of human organs?	A radical extension to the organ transplant programme is being launched by the Government, bringing fresh hope to hundreds of desperately ill patients.	58_10	1
+C	Shouldn't the sale of violent video games be banned	Video game bans are unconstitutional, and they won’t prevent violent crimes	14_12	-1
+C	Shouldn't the sale of violent video games be banned	According to the Society for Media Psychology and Technology, the “research evidence available to date indicates that violent video games have minimal impact on violent activity in society.” Also, according to one study, discovering that a person committing a crime plays violent video games “is no more illustrative than discovering that he or she happened to wear sneakers or used to watch Sesame Street.” Other studies have suggested that video games help reduce stress and in some instances may even reduce crime.	14_12	-1
+C	Shouldn't the sale of violent video games be banned	Therefore, video games are protected just as any other form of speech and expression.	14_12	-1
+C	Shouldn't the sale of violent video games be banned	If anything, the Supreme Court undervalued video games’ artistic importance.	14_12	-1
+C	Shouldn't the sale of violent video games be banned	In other words, video games exhibit the same artistic variety that one finds browsing Netflix.	14_12	-1
+C	Shouldn't the sale of violent video games be banned	The court found that studies showing a link between violence and video games were methodologically flawed and unpersuasive.	14_12	-1
+C	Should we legalize same-sex marriage?	Same-sex couples should have access to the same benefits enjoyed by heterosexual married couples.	20_9	1
+C	Should we legalize same-sex marriage?	Official unions between same-sex couples, indistinguishable from marriages except for gender, are believed by some scholars to have been common until the 13th Century in many countries, with the ceremonies performed in churches and the union sealed with a kiss between the two parties [ref].	20_9	1
+C	Should we legalize same-sex marriage?	Gay marriage is protected by the US Constitution’s commitments to liberty and equality.	20_9	1
+C	Should we legalize same-sex marriage?	The US Supreme Court ruled 7-2 in the 1974 case Cleveland Board of Education v. LaFleur that the freedom of personal choice in matters of marriage and family life is one of the liberties protected by the Due Process Clause.	20_9	1
+C	Should we legalize same-sex marriage?	Marriage is an internationally recognized human right for all people.	20_9	1
+C	Should we legalize same-sex marriage?	Non-discrimination on grounds of sexual orientation has therefore become an internationally recognized principle [ref].	20_9	1
+C	Should we legalize same-sex marriage?	Same-sex marriage is a civil right.	20_9	1
+C	Should we legalize same-sex marriage?	Gay marriages can bring financial gain to federal, state, and local governments and can help boost the economy.	20_9	1
+C	Should we legalize same-sex marriage?	Gay couples make good parents.	20_9	1
+C	Should we legalize same-sex marriage?	Gay marriage bans cause humiliation and uncertainty for children being raised by same-sex couples.	20_9	-1
+C	Should we legalize same-sex marriage?	Marriage provides both physical and psychological health benefits, and banning gay marriage increases rates of psychological disorders [ref].	20_9	1
+C	Should we legalize same-sex marriage?	Legalizing gay marriage will not harm the institution of marriage, and same-sex marriages may even be more stable than heterosexual marriages.	20_9	1
+C	Should we legalize same-sex marriage?	13, 2009 in Social Science Quarterly found that [l]aws permitting same-sex marriage or civil unions have no adverse effect on marriage, divorce, and abortion rates, [or] the percent of children born out of wedlock [ref].	20_9	1
+C	Should we legalize same-sex marriage?	Gay marriage legalization is correlated with lower divorce rates, while gay marriage bans are correlated with higher divorce rates.	20_9	1
+C	Should we legalize same-sex marriage?	Legal marriage is a secular institution that should not be limited by religious objections to same-sex marriage.	20_9	1
+C	Should we legalize same-sex marriage?	Many religious leaders and churches support gay marriage and say it is consistent with scripture.	20_9	1
+C	Should we legalize same-sex marriage?	The institution of marriage has traditionally been defined as being between a man and a woman.	20_9	-1
+C	Should we legalize same-sex marriage?	In upholding gay marriage bans in Kentucky, Michigan, Ohio and Tennessee on Nov. 6, 2014, 6th US District Court of Appeals Judge Jeffrey S. Sutton wrote that marriage has long been a social institution defined by relationships between men and women.	20_9	-1
+C	Should we legalize same-sex marriage?	Marriage is for procreation and should not be extended to same-sex couples because they cannot produce children together.	20_9	-1
+C	Should we legalize same-sex marriage?	A California Supreme Court ruling from 1859 stated that the first purpose of matrimony, by the laws of nature and society, is procreation [ref].	20_9	-1
+C	Should we legalize same-sex marriage?	Children need both a mother and a father.	20_9	-1
+C	Should we legalize same-sex marriage?	Legalizing gay marriage could lead down a “slippery slope,” giving people in polygamous, incestuous, bestial, and other nontraditional relationships the right to marry [ref].	20_9	-1
+C	Should we legalize same-sex marriage?	Allowing gay couples to wed could further weaken the institution of marriage.	20_9	-1
+C	Should we legalize same-sex marriage?	Homosexuality is immoral and unnatural.	20_9	-1
+C	Should we legalize same-sex marriage?	Marriage is holy, while homosexual acts go against the natural moral law [ref].	20_9	-1
+C	Should we legalize same-sex marriage?	Former Arkansas governor and Republican presidential candidate Mike Huckabee stated in Oct. 2014 that gay marriage is inconsistent with nature and nature’s law [ref].	20_9	-1
+C	Should we legalize same-sex marriage?	Gay marriage is contrary to the word of God and is incompatible with the beliefs, sacred texts, and traditions of many religious groups.	20_9	-1
+C	Should we legalize same-sex marriage?	No ideology can erase from the human spirit the certainty that marriage exists solely between a man and a woman… [ref]  Pope Benedict stated in Jan. 2012 that gay marriage threatened the future of humanity itself [ref].	20_9	-1
+C	Should we legalize same-sex marriage?	Gay marriage will accelerate the assimilation of gays into mainstream heterosexual culture to the detriment of the homosexual community.	20_9	-1
+C	Should we legalize same-sex marriage?	Marriage is an outmoded, oppressive institution that should be weakened, not expanded.	20_9	-1
+C	Should we legalize same-sex marriage?	Marriage is a privilege, not a right.	20_9	-1
+C	Should we legalize same-sex marriage?	Civil unions and domestic partnerships can provide the protections and benefits gay couples need without changing the definition of marriage.	20_9	1
+C	Should we legalize same-sex marriage?	I strongly believe that marriage ought to be defined as between a union between a man and a woman.	20_9	-1
+C	Should we support the universal language	A universal language could solve many of the problems associated with different cultures, including scientific progress, economics and unfair socioeconomic advantages.	13_3	1
+C	Should we support the universal language	This means that varying languages hinders economic growth when that 10 percent in trade is literally lost in translation.	13_3	1
+C	Should we support the universal language	Some argue that adopting a universal language could eradicate all or parts of a culture.	13_3	1
+C	Should we support the universal language	Barriers between human beings caused by different languages has done more harm than good.	13_3	1
+C	Should we introduce flogging?	The government believes that tough measures are justified by the country's crime statistics, which show Singapore to be one of the safest countries in the world.	48_7	1
+C	Should we eliminate traditional universities?	MOOCs are widely seen as a major part of a larger disruptive innovation taking place in higher education [ref].	8_4	1
+C	Should we eliminate traditional universities?	[citation needed] As of 2013 few students had applied for college credit for MOOC classes.	8_4	-1
+C	Should we accept multiculturalism	Scheffer is a committed supporter of the nation-state, assuming that homogeneity and integration are necessary for a society: the presence of immigrants undermines this.	117_9	-1
+C	Should we accept multiculturalism	a huge influx of people from diverse cultural backgrounds, in combination with multiculturalism, resulted in spontaneous ethnic segregation.	117_9	-1
+C	Should we accept multiculturalism	multiculturalism and immigration led to adaptation problems such as school drop-out, unemployment, and high crime rates.	117_9	-1
+C	Should we accept multiculturalism	The high immigration rate and the lack of integration threatened society, and must be stopped.	117_9	-1
+C	Should we accept multiculturalism	A liberal democracy cannot be multicultural, he argued, because multiculturalism is an ideology and a democracy has no official ideology.	117_9	-1
+C	Should we accept multiculturalism	Democracy and the rule of law could only be restored by abolishing multiculturalism.	117_9	-1
+C	Should there be a curfew for children?	Many people support imposing a curfew for teenagers, believing that this will create a reduction in juvenile crime and victimization.	66_4	1
+C	Should there be a curfew for children?	Others feel that it is a violation of teenagers' civil rights to impose a curfew.	66_4	-1
+C	Should there be a curfew for children?	The court decided that preserving the safety of the teenagers outweighed the violation of freedoms.	66_4	1
+C	Should there be a curfew for children?	One of the teen's parents filed a lawsuit arguing that the curfew violated first amendment rights of minors.	66_4	-1
+C	Should there be a curfew for children?	However, mayors surveyed as part of the study argued that the curfews did reduce crime in their citities, even when the research did not support it.	66_4	1
+C	Should there be a curfew for children?	The U.S. Conference of Mayors surveyed mayors in 347 cities with curfews and found that 88 percent of the cities found that curfews made their streets safer for residents.	66_4	1
+C	Should we provide breakfast for school students?	Key recommendations of the 2005 report that free but good quality breakfasts should be provided for children in decile 1 and 2 primary and intermediate schools as a means of ensuring that the most vulnerable children were sufficiently nourished to enable them to learn efficiently at school.	57_5	1
+C	Should we provide breakfast for school students?	The decision here was drawn to provide food for children in school both to improve students' education and improve their diets [ref].	57_5	1
+C	Should we provide breakfast for school students?	In Scotland, teachers report better attendance and better behaviour from children as a consequence of breakfast clubs there (Sheridan, 2001, para 17), and in its 2007 report to the UN Committee on the Rights of the Child (UNCROC) [ref], the Scottish government noted that new universal and subsidised school meal programmes in Scotland were improving children's health and academic outcomes [ref].	57_5	1
+C	Should we abandon the one-child policy	Advantages cited of having an only child are the decreased financial burden, the absence of any sibling rivalry, and that it becomes possible to take the child to an event suitable for their age without having to bring along a disinterested sibling.	1_3	-1
+C	Should we abandon the one-child policy	A disadvantage is that it can be harder for an only child to singlehandedly look after their aging parents [ref].	1_3	1
+C	Should we abandon the one-child policy	However, recent studies do not support these claims, and show no significant differences in personality between only children and children in larger families [ref].	1_3	-1
+C	Should we abandon the one-child policy	The one child policy has also been speculated to be the underlying cause of forced abortions, female infanticide, underreporting[21] of female births, and has been suggested as a possible cause behind China's increasing number of crimes and gender imbalance.	1_3	1
+C	Should we abandon the one-child policy	Furthermore, it is suggested that many feel that their parents place extra pressure and expectations on the only child, and that often, only children are perfectionists [ref].	1_3	1
+C	Should we abandon the one-child policy	The study found no evidence of any greater prevalence of maladjustment in only children.	1_3	-1
+C	Should we abandon the one-child policy	Because these resources are finite, children with many siblings are thought to receive fewer resources.	1_3	-1
+C	Should we abandon the one-child policy	He argues that most cultural stereotypes are false, that there are not many differences between only children and other children, and where there are differences, they are favorable to the only child.	1_3	-1
+C	Should we abandon the one-child policy	Her research showed that during their life span only children often become more aware of their only child status and are very much affected by society's stereotype of the only-child whether or not the stereotype is true or false.	1_3	1
+C	Should we abandon the one-child policy	The paper concludes that those who grew up as only children as a consequence of the (one-child) policy (in China) are found to be less trusting, less trustworthy, less likely to take risks, and less competitive than if they had had siblings.	1_3	1
+C	Should you block drug addicts?	Celebrities need harsher punishments to show young people that taking drugs is in no way acceptable.	55_1	1
+C	Should you block drug addicts?	We will set an example to the rest of the world, that drug abuse is not acceptable.	55_1	1
+C	Should you block drug addicts?	They do more harm in their drug abuse - because by taking illegal drugs or abusing alcohol, they promote it to others and render it socially acceptable because they won't get punished under the current system.	55_1	1
+C	Should you block drug addicts?	Peer pressure is more of an influence on young people than the example of Pete Doherty, and it is not celebrities who are most to blame for young people getting into drugs, therefore sentencing celebrities more harshly would have little, if any, effect.	55_1	-1
+C	Should you block drug addicts?	Therefore, celebrities should receive the same level of punishment as normal citizens.	55_1	-1
+C	Shouldn't the sale of violent video games be banned	As is evidenced by meta analyses such as the one cited above, there have been a multitude of studies proving a link between violent game play and short term aggressive behavior; other studies find no concrete link between long term aggression, bullying or criminal behavior.	14_2	1
+C	Shouldn't the sale of violent video games be banned	Researchers have also proposed potential positive effects of video games on aspects of social and cognitive development and psychological well-being [ref].	14_2	-1
+C	Should we provide breakfast for school students?	Adding breakfast to classrooms may have a health downside	57_7	-1
+C	Should we provide breakfast for school students?	But this may have an unintended consequence—it may raise the risk of childhood obesity.	57_7	-1
+C	Should we provide breakfast for school students?	We didn't find an effect on overall overweight and obesity, but we did find that the proportion of kids with obesity increased in schools with breakfast in the classroom, said the study's lead author, Katherine Bauer.	57_7	-1
+C	Should we provide breakfast for school students?	It also showed that having breakfast didn't boost metabolism.	57_7	-1
+C	Should vaccination be mandatory	Compulsory vaccination greatly reduces infection rates for the diseases the vaccines protect against [ref].	70_1	1
+C	Should vaccination be mandatory	Common objections included the argument that governments should not infringe on an individual's freedom to make medical decisions for themselves or their children, or claims that proposed vaccinations were dangerous [ref].	70_1	-1
+C	Should vaccination be mandatory	Investigation of different types of vaccination policy finds strong evidence that standing orders and allowing healthcare workers without prescription authority (such as nurses) to administer vaccines in defined circumstances increases vaccination rates, and sufficient evidence that requiring vaccinations before attending child care and school also does so [ref].	70_1	1
+C	Should vaccination be mandatory	Medical ethicist Arthur Caplan argues that children have a right to the best available medical care, including vaccines, regardless of parental opinions toward vaccines, saying Arguments about medical freedom and choice are at odds with the human and constitutional rights of children.	70_1	1
+C	Should vaccination be mandatory	When parents won’t protect them, governments must [ref].	70_1	1
+C	Should vaccination be mandatory	To prevent the spread of disease by unvaccinated individuals, some schools and doctors' surgeries have prohibited unvaccinated children from being enrolled, even where not required by law [ref].	70_1	1
+C	Should we ban campus loans?	According to the Saint Louis Fed, existing racial wealth disparities and soaring higher education costs may actually replicate racial wealth disparities across generations by driving racial disparities in student loan debt load and repayment [ref].	94_2	1
+C	Should we ban campus loans?	United States Federal student loans and some private student loans can be discharged in bankruptcy only with a showing of undue hardship.	94_2	1
+C	Should we ban campus loans?	Further complicating matters, the undue hardship standard varies from jurisdiction to jurisdiction, but is generally difficult to meet, making student loans practically non-dischargeable through bankruptcy.	94_2	1
+C	Should you stay away from online dating	Getting to know someone before deciding whether they want to date provides a sense of comfort.	106_6	-1
+C	Should you stay away from online dating	Granted, all online relationships will likely go off-line eventually.	106_6	1
+C	Should we support pre-marital property notarization?	This will even lessen your legal bills too because prenup costs are much less than the divorce attorney.	52_6	1
+C	Should we support pre-marital property notarization?	Just to be on a safe side, a prenup is necessary before marriage to avoid much loses in the marriage and if eventually the marriage is dissolved later, you may have just heartbreak to worry about.	52_6	1
+C	Should we support pre-marital property notarization?	To maintain your financial stability: This is the major reason people go for prenuptial agreement.	52_6	1
+C	Should we support pre-marital property notarization?	To keep inheritable assets and properties for your children: Many families have the interest of their children at heart and would wish to keep money, asset and property for them even after divorcing but in the case of spouse with kids outside marriage other than the ones they have with their partner, a prenup can help you stop your spouse from taking out everything you worked for his/her other children.When two people marry each other, and each of them has important assets, a prenup might be advantageous in keeping those assets divided, if the divorce or legal separation takes place.	52_6	1
+C	Should we support pre-marital property notarization?	To earn your Spouse Support: If you have the feeling that your partner does not provide or give you support financial as he/she ought to do, prenuptial agreement can create basis for the support you seek for.	52_6	1
+C	Should we support pre-marital property notarization?	Prenuptial agreement can bring in doubts in your marriage; this means that you do not believe you have a life partner and limiting your marriage which is meant to be a life time affair to the level of a contract.	52_6	-1
+C	Should we support pre-marital property notarization?	And since prenup is only useful for divorce, spouse may grow selfish and act towards breaking the marriage.	52_6	-1
+C	Should we support pre-marital property notarization?	This increases the pre-wedding expenses: You will have to spent reasonable amount of money to get an unbiased lawyer to preview the prenuptial agreement template before signing it.	52_6	-1
+C	Should we support pre-marital property notarization?	Prenup helps couples not to fight because of financial problems since both will strive.	52_6	1
+C	Should there be a curfew for children?	I was in high school, and without seeing statistics to backup my arguments I have first-hand experience that curfews lead teens to stay out of trouble.	66_7	1
+C	Should there be a curfew for children?	A study shows that state’s that have curfews have lower crime rate among teens.	66_7	1
+C	Should there be a curfew for children?	This is believed to protect them from crimes committed after nightfall, as well as from violating the law, and there exist serious evidence in favor of this conviction.	66_7	1
+C	Should there be a curfew for children?	For example, when New Orleans enabled a dusk-till-dawn curfew in 1994, the rates of juvenile crime were reported to fall more than 20 percent.” To go along with that statistic it also shows, “Even more impressive results were recorded in Dallas, which reported a 30 percent decrease in violent juvenile crime, and a 21 percent decrease in the overall rates of crimes committed by young people.” Crime rate among teens is proven to go down when curfews are enforced among teenagers.	66_7	1
+C	Should there be a curfew for children?	Parents curfews have been enforced to the distraught sense on a teenage.	66_7	-1
+C	Should there be a curfew for children?	I believe curfew laws need to be involved because of the safety of the children.	66_7	1
+C	Should there be a curfew for children?	It instills responsibility and awareness amongst teenagers.	66_7	1
+C	Should there be a curfew for children?	The law is a progressive sign in society that keeps teenagers out of trouble and is for the betterment of their life.	66_7	1
+C	Should you be allowed to watch your partner's phone?	The success of a relationship is directly proportional to the level of transparency in a relationship.	113_4	1
+C	Should you be allowed to watch your partner's phone?	This rule of transparency gives your partner a feeling of security and trustworthiness.	113_4	1
+C	Should you be allowed to watch your partner's phone?	Giving your life partner access to your phone means you trust them completely, sharing the ins and outs of your virtual life.	113_4	1
+C	Should you be allowed to watch your partner's phone?	Today, partners who don’t hide their cell phones from each other enjoy a deeper bonding of trust and faith.	113_4	1
+C	Should you be allowed to watch your partner's phone?	So, to avoid any suspicions in your relationship, don’t hide your phone from your significant other.В	113_4	1
+C	Should you be allowed to watch your partner's phone?	Trust and transparency are a must to build healthier stronger relationships.	113_4	1
+C	Should you be allowed to watch your partner's phone?	Today, a phone is considered as the most personal thing.	113_4	-1
+C	Should you be allowed to watch your partner's phone?	Your life partner will have more trust in you if you don’t hide your phone details from them and you both will share a much closer bond with each other.В	113_4	1
+C	Should you be allowed to watch your partner's phone?	It reduces the chances of fights	113_4	1
+C	Should you be allowed to watch your partner's phone?	If you are trying to hide your phone from your life partner, it will create a lot of doubts and insecurities in his/her mind, resulting in arguments, fights and conflicts.	113_4	1
+C	Should you be allowed to watch your partner's phone?	In order to avoid unwanted disputes and quarrels with your significant other, just give them access to your cell phone.	113_4	1
+C	Should we accept multiculturalism	A prominent criticism in the US, later echoed in Europe, Canada and Australia, was that multiculturalism undermined national unity, hindered social integration and cultural assimilation, and led to the fragmentation of society into several ethnic factions (Balkanization) [ref].	117_7	-1
+C	Should we accept multiculturalism	In his 1991 work, Illiberal Education [ref], Dinesh D'Souza argues that the entrenchment of multiculturalism in American universities undermined the universalist values that liberal education once attempted to foster.	117_7	-1
+C	Should we accept multiculturalism	He surveyed 26,200 people in 40 American communities, finding that when the data were adjusted for class, income and other factors, the more racially diverse a community is, the greater the loss of trust.	117_7	-1
+C	Should we accept multiculturalism	The effect of diversity is worse than had been imagined.	117_7	-1
+C	Should there be a curfew for children?	Declaring a juvenile curfew to keep troublemaking teenagers off the streets is a summer ritual in many American cities.	66_10	1
+C	Should there be a curfew for children?	As the report stated, “evidence suggests that juvenile curfews are ineffective at reducing crime and victimization.	66_10	-1
+C	Should there be a curfew for children?	The studies found that they damage already-strained relationships between police and youth of color and in some instances have “blowback” effects, increasing juvenile victimization or overall crime.	66_10	-1
+C	Should there be a curfew for children?	Using ShotSpotter audio sensor data, the authors found that gunfire incidents were significantly more frequent when the curfew was in effect.	66_10	-1
+C	Should developing countries restrict rural-to-urban migration?	Recently, migrants’ remittances and the income multipliers they create are becoming critical resources for the sustenance strategies of receiving households as well as agents of regional and national development [27].	18_6	-1
+C	Should Mathematics be a Compulsory Course	Mathematics Should be Optional, not Compulsory in Schools	53_9	-1
+C	Should Mathematics be a Compulsory Course	Mathematics in middle and high school should be an optional subject, only taught to those students who have a genuine taste for it.	53_9	-1
+C	Should Mathematics be a Compulsory Course	Mathematics is everywhere: on your iPhone, in the weather, in the movement of the stars.	53_9	1
+C	Should Mathematics be a Compulsory Course	Mathematics gives you a better, more structured way of thinking.	53_9	1
+C	Should Mathematics be a Compulsory Course	Mathematics opens the doors to profitable careers in Engineering, Computer Science, or Finance.	53_9	1
+C	Should Mathematics be a Compulsory Course	The notion that in mathematics there is room only for solving the exercises in the textbook, but not for appreciating the bigger picture, is firmly ingrained in the education system.	53_9	-1
+C	Should Mathematics be a Compulsory Course	The second argument, that math strengthens your brain and makes you think differently, is correct to the extent that you need to shape your mind in a certain way to solve analytic problems.	53_9	1
+C	Should Mathematics be a Compulsory Course	However, this is a side-effect of the overall experience and not the primary goal of doing mathematics.	53_9	-1
+C	Should Mathematics be a Compulsory Course	Finally, the last point, that mathematics is the key to the door to a profitable career is not a favorable aspect but rather a problem, one that would require a revolution to change this paradigm of education.	53_9	-1
+C	Should Mathematics be a Compulsory Course	Mathematics should not be a compulsory course in middle and high-school.	53_9	-1
+C	Should we stop the development of the Arctic	I agree that there are clear negative impacts to arctic drilling (mainly the positive feedback loop of melting, leading to more drilling, leading to more melting that Sophie lays out, and also the fact that there is little infrastructure in the arctic for spill clean up) it is necessary to examine the alternatives.	59_9	1
+C	Should we fund children in developing countries?	Although it is easy to say this reliance is due to a lack of political will to invest in and improve basic education systems, the reality is that a large number of developing countries do not have the financial or other resources necessary to extend quality basic education to every child in the country.	91_3	1
+C	Should we fund children in developing countries?	External financing has been critical to making gains in primary education in these countries; discontinuing this support for important education system investments will pose serious challenges to current reform efforts.	91_3	1
+C	Should we ban unsustainable logging	The removal of trees without sufficient reforestation has resulted in habitat damage, biodiversity loss, and aridity.	123_3	1
+C	Should we ban unsustainable logging	Deforestation causes extinction, changes to climatic conditions, desertification, and displacement of populations, as observed by current conditions and in the past through the fossil record [ref].	123_3	1
+C	Should we ban unsustainable logging	Deforestation also has adverse impacts on biosequestration of atmospheric carbon dioxide, increasing negative feedback cycles contributing to global warming.	123_3	1
+C	Should we ban unsustainable logging	Deforested regions typically incur significant other environmental effects such as adverse soil erosion and degradation into wasteland.	123_3	1
+C	Should we ban unsustainable logging	Deforestation is ongoing and is shaping climate and geography [ref].	123_3	1
+C	Should we ban unsustainable logging	Deforestation is a contributor to global warming [ref], and is often cited as one of the major causes of the enhanced greenhouse effect.	123_3	1
+C	Should we ban unsustainable logging	Deforestation causes carbon dioxide to linger in the atmosphere.	123_3	1
+C	Should we ban unsustainable logging	Deforestation may also cause carbon stores held in soil to be released.	123_3	1
+C	Should we ban unsustainable logging	Deforestation affects wind flows, water vapour flows and absorption of solar energy thus clearly influencing local and global climate.	123_3	1
+C	Should we ban unsustainable logging	However, the incineration and burning of forest plants to clear land releases large amounts of CO2, which contributes to global warming [ref].	123_3	1
+C	Should we ban unsustainable logging	The water cycle is also affected by deforestation.	123_3	1
+C	Should we ban unsustainable logging	Deforestation reduces the content of water in the soil and groundwater as well as atmospheric moisture.	123_3	1
+C	Should we ban unsustainable logging	Deforestation reduces soil cohesion, so that erosion, flooding and landslides ensue [ref].	123_3	1
+C	Should we ban unsustainable logging	Shrinking forest cover lessens the landscape's capacity to intercept, retain and transpire precipitation.	123_3	1
+C	Should we ban unsustainable logging	In contrast, when an area is deforested, almost all precipitation is lost as run-off [ref].	123_3	1
+C	Should we ban unsustainable logging	Deforestation also contributes to decreased evapotranspiration, which lessens atmospheric moisture which in some cases affects precipitation levels downwind from the deforested area, as water is not recycled to downwind forests, but is lost in runoff and returns directly to the oceans.	123_3	1
+C	Should we ban unsustainable logging	This in turn changes erosion rates and the availability of water for either ecosystem functions or human services.	123_3	1
+C	Should we ban unsustainable logging	Deforestation disrupts normal weather patterns creating hotter and drier weather thus increasing drought, desertification, crop failures, melting of the polar ice caps, coastal flooding and displacement of major vegetation regimes.	123_3	1
+C	Should we eliminate traditional newspapers	Print is more satisfying for recipient	9_6	-1
+C	Should we eliminate traditional newspapers	Print media engages more senses – not just sight, but touch and even smell – making it a more satisfying experience for the reader.	9_6	-1
+C	Should we eliminate traditional newspapers	But in the past few years, ebook sales have been falling, while the physical book market has been steadily growing.	9_6	-1
+C	Should we eliminate traditional newspapers	Those who are passionate about print, like Paragon Service Point, see it as a craft, where distinctive features such as unique colours, foiling and textures deliver an engaging and immersive brand experience that can’t be matched by digital media.	9_6	-1
+C	Should we eliminate traditional newspapers	Various studies show that print media is as trusted as it is tangible.	9_6	-1
+C	Should we eliminate traditional newspapers	Meanwhile, in these ‘fake news’ times, printed news magazines are the most trusted news source, according to a 2017 study by Kantar.	9_6	-1
+C	Should we eliminate traditional newspapers	It’s not only readers who can trust print to deliver – so too can brands and publishers.	9_6	-1
+C	Should we eliminate traditional newspapers	Print can complement digital	9_6	-1
+C	Should we eliminate traditional newspapers	Print and digital are not mutually exclusive.	9_6	-1
+C	Should we eliminate traditional newspapers	Print is constantly showing itself to be capable of adapting in these digital times.	9_6	-1
+C	Should I ban ivory trading?	The poaching epidemic that had hit so much of the African elephants' range was greatly reduced.	63_1	-1
+C	Should I ban ivory trading?	They finished their appeal by describing the poaching crisis of the 1980s, and emphasized that the decision to ban ivory was not made to punish southern African countries, but to save the elephants in the rest of the world [ref].	63_1	-1
+C	Should I ban ivory trading?	As a source of terrorism funding	63_1	-1
+C	Should we prohibit the use of animals as objects of sports and entertainment	For some the basis of animal rights is in religion or animal worship (or in general nature worship), with some religions banning killing of any animal; One of the most important sanctions of the Jain, Hindu and Buddhist faiths is the concept of ahimsa, or refraining from the destruction of life.	74_3	1
+C	Should we prohibit the use of animals as objects of sports and entertainment	According to Buddhist belief, humans do not deserve preferential treatment over other living beings.	74_3	1
+C	Should we prohibit the use of animals as objects of sports and entertainment	Muhammad forbade his followers to harm any animal and asked them to respect the rights of animals [ref].	74_3	1
+C	Should we raise the school-leaving age to 18?	But the bill was backed by the charity Barnardo's, which said it had the potential to improve opportunities for the many disadvantaged young people who leave school at 16 with few qualifications and dismal long-term prospects.	124_7	1
+C	Should we raise the school-leaving age to 18?	David Laws, the Liberal Democrat education spokesman, said: This bill contains one of the biggest increases in state powers over the individual for many years.	124_7	-1
+C	Should we raise the school-leaving age to 18?	We need stronger vocational options and relevant learning opportunities for all.	124_7	1
+C	Should we ban smoking in public places	For example, the ‘Big Smoking Debate’ organized by the London Health Commission involving over 30 000 respondents indicated that the vast majority (76 per cent) wanted completely smoke free public places, including both smokers and non-smokers.2	65_2	1
+C	Should we ban smoking in public places	However, public opinion is also being galvanized by growing recognition of the adverse health effects of second-hand smoke, something the tobacco industry has striven hard to refute as part of a campaign sustained over many years to prevent the introduction of bans on smoking in public places.	65_2	1
+C	Should we ban smoking in public places	There is now an overwhelming consensus among independent tobacco researchers that exposure to second-hand smoke causes many deaths, with recent research using more precise measures of exposure revealing how exposure to second-hand smoke is considerably more dangerous than was previously believed.3 This is consistent with recently discovered tobacco industry documents showing that second-hand smoke is even more harmful, volume for volume, than directly inhaled smoke.4 Yet the industry continues to place the highest priority on preventing the introduction of restrictions on smoking in public places and has been especially active in spreading misinformation about the effects of the bans in Ireland and New York.	65_2	1
+C	Should we ban smoking in public places	The main reason it has pursued this policy with such tenacity is clear; bans, together with increased taxation, are the most effective ways of reducing smoking overall.5 However, it is also concerned that to concede that second-hand smoke is harmful would undermine its argument that smoking is a matter of personal choice.	65_2	1
+C	Should we ban smoking in public places	This too is incorrect, with extensive evidence that the force of ventilation that would be required is far beyond the capacity of existing systems and would be similar to sitting outside during a gale.8 It is important to be aware that many harmful components of tobacco smoke are odourless and the tobacco industry has put much effort into masking the smell and visibility of environmental tobacco smoke.9	65_2	1
+C	Should physical education be compulsory	PE is very important to students' health and overall well-being.	42_1	1
+C	Should physical education be compulsory	Research has shown that there is a positive correlation between brain development and exercising.	42_1	1
+C	Should physical education be compulsory	According to the World Health Organization it is suggested that young children should be doing 60 minutes of exercise per day at least 3 times per week in order to maintain a healthy body [ref].	42_1	1
+C	Should we ban smoking in public places	Commentary: Smoking is lowering your productivity and killing the economy	65_7	1
+C	Should we ban smoking in public places	It bears repeating that smoking remains one of the unhealthiest addictions prevalent in today’s society: Smokers suffer and die from lung and related cancers, heart diseases, chronic bronchitis, stroke and more.	65_7	1
+C	Should we ban smoking in public places	The high medical costs aside, it was also reported that Singapore’s total social cost of smoking in the same year amounted to a much larger sum – of about S$700 million.	65_7	1
+C	Should we ban smoking in public places	This is because smoking not only incurs direct medical costs, but also indirect costs in terms of productivity losses.	65_7	1
+C	Should we ban smoking in public places	In addition, negative health externalities imposed on passive smokers can also lead to further productivity losses.	65_7	1
+C	Should we ban smoking in public places	Taking a broader perspective, smoking depreciates human capital in the long term, and has even greater implications for the macro-economy, especially in countries highly dependent on human capital such as Singapore.	65_7	1
+C	Should we ban smoking in public places	Smokers have more years lost due to ill health, disability and younger mortality, decreasing the effective labour force a country possesses.	65_7	1
+C	Should the Dog Meat Festival be abolished?	Pet ownership has grown rapidly among the Chinese, as has a greater consciousness of animal rights.	97_4	1
+C	Should the Dog Meat Festival be abolished?	Its proponents defend the practice as an expression of cultural heritage and argue that eating dogs is no different from eating cows or turkeys.	97_4	-1
+C	Should the Dog Meat Festival be abolished?	In an email, Mr. Li said that he expected millions more to join the global call by June 21, and that “China will score a huge reputation-improvement score” if its government shut down the event.	97_4	1
+C	Should we fund children in developing countries?	It is believed that what lies behind this phenomenon is the increased global interest in early childhood education, and the need for literacy education, which is a pressing challenge for developing countries.	91_2	1
+C	Should we fund children in developing countries?	As mentioned above, developing countries are increasingly striving to make early childhood education available to more children, with a heightened sense of need to improve the content and methods.	91_2	1
+C	Should we cancel the standardized test for university entrance	Standardized testing is a metric for learning	62_10	-1
+C	Should we cancel the standardized test for university entrance	With exams created and given by an independent organization, standardized test scores are useful because they come from a neutral source and give us data that we can compare to other independent schools across the United States and with other international schools across the globe.	62_10	-1
+C	Should we cancel the standardized test for university entrance	Standardized testing helps pinpoint areas for improvement	62_10	-1
+C	Should we cancel the standardized test for university entrance	Standardized tests can help schools evaluate progress	62_10	-1
+C	Should we cancel the standardized test for university entrance	Test scores can impact confidence	62_10	1
+C	Should we cancel the standardized test for university entrance	There’s pressure to “teach to the test”	62_10	1
+C	Should we cancel the standardized test for university entrance	Scores don’t provide a true picture of a student’s ability	62_10	1
+C	Should we support pre-marital property notarization?	It’s for any couple that wants to protect their individual assets and wants a plan in place if the marriage dissolves.	52_8	1
+C	Should we support pre-marital property notarization?	Your personal financial assets are protected.	52_8	1
+C	Should we support pre-marital property notarization?	Even if both parties are fully on board for this agreement, it can be a strange and disconcerting experience.	52_8	-1
+C	Should Mathematics be a Compulsory Course	Woonona High School principal Belinda Wall believes there are great benefits of continuing studies in maths and science, but doesn’t think making it mandatory would necessarily benefit students.	53_13	-1
+C	Should Mathematics be a Compulsory Course	Mr FitzSimons agreed it was important for teenagers to leave school with basic numeracy skills, but believed forcing them to take on maths and science was limiting the other learning opportunities of subjects they were more interested in which might also involve forms of mathematical and science skills.	53_13	-1
+C	Should Mathematics be a Compulsory Course	“There’s practically no career path today that doesn’t entail some degree of understanding data and being able to quantitatively reason,” Humphreys said.	53_13	1
+C	Should we legalize the sale of human organs?	It is not a good idea to legalize payment for organ donors as such payment institutionalizes the belief that the wealthy ill have property rights to the body parts of the poor, says Professor A. Vathsala, director of the adult renal transplantation program and head of nephrology at Singapore's National University Hospital.	58_4	-1
+C	Should we legalize the sale of human organs?	Yet the idea of compensating living kidney donors also has prominent proponents in Singapore, who say that it could help solve a severe shortage — the waiting list for a kidney transplant in Singapore is up to nine years.	58_4	1
+C	Should we legalize the sale of human organs?	That is the flaw that is unacceptable in any scheme involving purchasing a kidney: it's exploitative.	58_4	-1
+C	Should we legalize the sale of human organs?	My position is that development of a legal, regulated mechanism for donor compensation is the only means of effectively eliminating the demand for this covert activity, closing down the black market and improving safety for donors and recipients.	58_4	1
+C	Should we promote the use of wind energy	To some, the perceived aesthetic aspects of wind power stations may conflict with the protection of historical sites [ref].	121_3	-1
+C	Should we promote the use of wind energy	While studies in Scotland predict wind farms will damage tourism [ref], in other countries some wind farms have themselves become tourist attractions [ref], with several having visitor centers at ground level or even observation decks atop turbine towers.	121_3	1
+C	Should we promote the use of wind energy	Wind power stations can impact on important sight relations which are a key part of culturally important landscapes, such as in the Rhine Gorge or Moselle valley [ref].	121_3	-1
+C	Should we promote the use of wind energy	Wind turbines require aircraft warning lights, which may create light pollution.	121_3	-1
+C	Should we promote the use of wind energy	A 2014 study by Health Canada [145] involving 1238 households (representing 79 percent of the households in the geographic area studied) and 4000 hours of testing in Ontario and on Prince Edward Island includes the following supportive statements of wind turbine low frequency noise annoyance in its summary:	121_3	-1
+C	Should we promote the use of wind energy	Some turbine nacelle fires cannot be extinguished because of their height, and are sometimes left to burn themselves out.	121_3	-1
+C	Should we promote the use of wind energy	During winter, ice may form on turbine blades and subsequently be thrown off during operation.	121_3	-1
+C	Should we promote the use of wind energy	The physical presence of offshore wind farms altering the behavior of marine mammals, fish, and seabirds by reasons of either attraction or avoidance;	121_3	-1
+C	Should we promote the use of wind energy	Potential disruption of the near-field and far-field marine environments from large offshore wind projects.	121_3	-1
+C	Should we embrace globalization?	With the increased global interactions comes the growth of international trade, ideas, and culture.	12_1	1
+C	Should we embrace globalization?	Also, the expansions of global markets liberalize the economic activities of the exchange of goods and funds.	12_1	1
+C	Should we embrace globalization?	Further, environmental challenges such as global warming, cross-boundary water, air pollution, and over-fishing of the ocean are linked with globalization [ref].	12_1	-1
+C	Should we embrace globalization?	Proponents of economic growth, expansion and development, in general, view globalizing processes as desirable or necessary to the well-being of human society [ref].	12_1	1
+C	Should we embrace globalization?	Antagonists view one or more globalizing processes as detrimental to social well-being on a global or local scale;[126] this includes those who focus on social or natural sustainability of long-term and continuous economic expansion, the social structural inequality caused by these processes, and the colonial, imperialistic, or hegemonic ethnocentrism, cultural assimilation and cultural appropriation that underlie such processes.	12_1	-1
+C	Should we embrace globalization?	Others point out that, while the forces of globalization have led to the spread of western-style democracy, this has been accompanied by an increase in inter-ethnic tension and violence as free market economic policies combine with democratic processes of universal suffrage as well as an escalation in militarization to impose democratic principles and as a means to conflict resolution [ref].	12_1	-1
+C	Should sex education courses be compulsory in middle schools?	One school of thought says that the kids are not getting the right amount of sex information at home, and they the school is only place that can deliver required education to the kids.	46_6	1
+C	Should sex education courses be compulsory in middle schools?	It actually helps the children’s to understand sex consequences in young age this prevent sex at a young age.	46_6	1
+C	Should sex education courses be compulsory in middle schools?	By the help students can be taught about sexually transmitted diseases and hence they become aware of sexual activities results.	46_6	1
+C	Should sex education courses be compulsory in middle schools?	If this education is properly given, it will also assist student to understand Human Anatomy and Biology	46_6	1
+C	Should sex education courses be compulsory in middle schools?	After knowing the consequences of sex in young age student will give more concentration to their studies	46_6	1
+C	Should sex education courses be compulsory in middle schools?	Proper education delivered to students will help them in prevention of STDs and other sexual problems in adulthood.	46_6	1
+C	Should sex education courses be compulsory in middle schools?	Students might still be focus to shame or excitable by subject theme.	46_6	-1
+C	Should sex education courses be compulsory in middle schools?	Often it’s happen that, the sexual education may go in opposition to moral or spiritual beliefs of an individual.	46_6	-1
+C	Should you invest in renewable technologies	Renewable power technologies can have significant environmental benefits.	47_3	1
+C	Should you invest in renewable technologies	Overall, hydroelectric power can be far less expensive than electricity generated from fossil fuels or nuclear energy, and areas with abundant hydroelectric power attract industry.	47_3	1
+C	Should you invest in renewable technologies	Operating labor cost is also usually low, as plants are automated and have few personnel on site during normal operation.	47_3	1
+C	Should you invest in renewable technologies	Low impact on climate change	47_3	1
+C	Should you invest in renewable technologies	Large reservoirs can control flooding and alleviate droughts, which would otherwise harm people living downstream [ref].	47_3	1
+C	Will artificial intelligence replace humans	An AI system can play chess fantastically, but it doesn't even know that it's playing a game, says Brooks.	5_12	-1
+C	Will artificial intelligence replace humans	As humans, we have a greater understanding of the world around us.	5_12	-1
+C	Will artificial intelligence replace humans	Brooks says accurate word strings are good enough to do a lot of things.	5_12	-1
+C	Will artificial intelligence replace humans	But it's not as smart as a person.	5_12	-1
+C	Will artificial intelligence replace humans	Because we do think there will be many more applications and uses for robotics, but not at the level of what people are talking about, where robots are on the verge of stealing half of our jobs.	5_12	-1
+C	Will artificial intelligence replace humans	As we build smarter and smarter machines, our capabilities as humans will be augmented.	5_12	-1
+C	Should we ban campus loans?	But even with scholarships and Federal grants, most students will face a gap in their college fund that requires a student loan of one form or another.	94_15	-1
+C	Should we ban campus loans?	Having said that, student loans are often necessary to make it possible for a young person to fulfill their college dreams.	94_15	-1
+C	Should we ban campus loans?	Luckily, student loans often offer special terms and provisions that make them a more affordable and manageable commitment for young college-bound students.	94_15	-1
+C	Should we ban campus loans?	Student borrowers can also take advantage of more lenient repayment plans and schedules that are exclusive to education loans, and unlike the more restrictive terms and conditions of a standard loan.	94_15	-1
+C	Should we ban campus loans?	College Student Loans Are Flexible	94_15	-1
+C	Should we ban campus loans?	Student education loans offer a greater flexibility, and more manageable terms and conditions than standard non-education loans.	94_15	-1
+C	Should we ban campus loans?	Both Federal and private lenders understand the requirements of a college career, and strive to make education loans easier to manage for the student borrower.	94_15	-1
+C	Should we ban campus loans?	It allows the student to secure a loan at lower interest rates and better repayment terms, and gives him or her the opportunity to build a solid credit history of their own.	94_15	-1
+C	Should we ban campus loans?	Low Fees on Student Loans	94_15	-1
+C	Should we ban campus loans?	College Student Loans Help Build Credit	94_15	-1
+C	Should we ban campus loans?	While taking out a student loan may seem a daunting prospect, it is also the perfect opportunity to begin to build a solid credit history.	94_15	-1
+C	Should we ban campus loans?	Education loans are often a prime target of these incentive plans, and can help student borrowers save much needed money when applying for and securing a private lender loan.	94_15	-1
+C	Should the death penalty be abolished	Death penalty opponents regard the death penalty as inhumane[120] and criticize it for its irreversibility [ref].	68_3	1
+C	Should the death penalty be abolished	They argue also that capital punishment lacks deterrent effect [ref], discriminates against minorities and the poor, and that it encourages a culture of violence [ref].	68_3	1
+C	Should the death penalty be abolished	Advocates of the death penalty argue that it deters crime [ref], is a good tool for police and prosecutors in plea bargaining [ref], makes sure that convicted criminals do not offend again, and is a just penalty [ref].	68_3	-1
+C	Should the death penalty be abolished	Supporters of the death penalty argued that death penalty is morally justified when applied in murder especially with aggravating elements such as for murder of police officers, child murder, torture murder, multiple homicide and mass killing such as terrorism, massacre and genocide.	68_3	-1
+C	Should the death penalty be abolished	This argument is strongly defended by New York Law School's Professor Robert Blecker [ref], who says that the punishment must be painful in proportion to the crime.	68_3	-1
+C	Should the death penalty be abolished	Abolitionists believe capital punishment is the worst violation of human rights, because the right to life is the most important, and capital punishment violates it without necessity and inflicts to the condemned a psychological torture.	68_3	1
+C	Should the death penalty be abolished	Human rights activists oppose the death penalty, calling it cruel, inhuman and degrading punishment.	68_3	1
+C	Should the death penalty be abolished	Amnesty International considers it to be the ultimate irreversible denial of Human Rights [ref].	68_3	1
+C	Should the death penalty be abolished	It is frequently argued that capital punishment leads to miscarriage of justice through the wrongful execution of innocent persons [ref].	68_3	-1
+C	Should the death penalty be abolished	Many people have been proclaimed innocent victims of the death penalty [ref].	68_3	-1
+C	Should we abandon the one-child policy	Couples with only one child were given preferential treatment in housing allocation.	1_6	-1
+C	Should we abandon the one-child policy	Rapid fertility reduction associated with the one-child policy has potentially negative results.	1_6	1
+C	Do all countries have the right to manufacture nuclear weapons	Despite controls and regulations governing nuclear weapons, there is an inherent danger of accidents, mistakes, false alarms, blackmail, theft, and sabotage [ref].	119_2	-1
+C	Do all countries have the right to manufacture nuclear weapons	Proponents of nuclear disarmament say that it would lessen the probability of nuclear war, especially accidentally.	119_2	-1
+C	Do all countries have the right to manufacture nuclear weapons	Critics of nuclear disarmament say that it would undermine the present nuclear peace and deterrence and would lead to increased global instability.	119_2	1
+C	Do all countries have the right to manufacture nuclear weapons	Kenneth Waltz has argued that nuclear weapons have helped keep an uneasy peace, and further nuclear weapon proliferation might even help avoid the large scale conventional wars that were so common before their invention at the end of World War II [ref].	119_2	1
+C	Should we provide breakfast for school students?	A school breakfast gives all students an equal start to the day	57_1	1
+C	Should we provide breakfast for school students?	All children should have equal opportunities, a breakfast for all helps provide this.	57_1	1
+C	Should we provide breakfast for school students?	A school breakfast may have forced these students to be up even longer before their natural wake up time than would otherwise be the case.	57_1	-1
+C	Should we provide breakfast for school students?	As a result giving breakfast at school will mean that all children between these ages receive it.	57_1	-1
+C	Should we provide breakfast for school students?	Schools already have enough pressures just to educate their students, they do not need additional pressure from having to ensure their nutrition as well.	57_1	-1
+C	Should we provide breakfast for school students?	Exactly, the role of the school is to teach children, not to be providing food and using periods of time for this that could be used for lessons.	57_1	-1
+C	Should we provide breakfast for school students?	Providing a school breakfast means that the meal can be an educational experience and have teaching alongside.	57_1	1
+C	Should we ban unsustainable logging	Deforestation is one of the main contributors to climate change.	123_2	1
+C	Should we ban unsustainable logging	Mass deforestation continues to threaten tropical forests, their biodiversity and the ecosystem services they provide.	123_2	1
+C	Should we ban unsustainable logging	Deforestation is the second largest anthropogenic source of carbon dioxide to the atmosphere, after fossil fuel combustion.	123_2	1
+C	Should we ban unsustainable logging	Not only does the lumber industry impact deforestation but also the environment due to deforestation drives on climate change.	123_2	1
+C	Should we ban unsustainable logging	These rising demands for certain products and global trade arrangements causes forest conversions, which ultimately leads to soil erosion.	123_2	1
+C	Should we ban unsustainable logging	The top soil oftentimes erodes after forests are being cleared which leads to sedimentation increase in rivers and streams.	123_2	1
+C	Should we ban unsustainable logging	However, deforestation disrupts the processes of carbon sequestration and affects localised climates.	123_2	1
+C	Should we ban unsustainable logging	Furthermore, deforestation changes the landscape and reflectivity of earth's surface, i.e.	123_2	1
+C	Should we ban unsustainable logging	According to scientists at Yale University, clearing forests changes the environment of the microbial communities within the soil, and causes a loss of biodiversity in regards to the microbes since biodiversity is actually highly dependent on soil texture [ref].	123_2	1
+C	Should we ban unsustainable logging	Although the effect of deforestation has much more profound consequences on sandier soils compared to clay-like soils, the disruptions caused by deforestation ultimately reduces properties of soil such as hydraulic conductivity and water storage, thus reducing the efficiency of water and heat absorption [ref].	123_2	1
+C	Should we ban unsustainable logging	Degradation of forest ultimately leads to a decrease in oxygen and a sufficient increase of carbon dioxide.	123_2	1
+C	Should we ban unsustainable logging	As development of the country's caused a decline in forest cover, a reduction in biodiversity was seen in those areas [ref].	123_2	1
+C	Should we ban unsustainable logging	Deforestation in the Amazon rainforest is a major cause to climate change due to the decreasing number of trees available to capture increasing carbon dioxide levels in the atmosphere [ref].	123_2	1
+C	Should we introduce flogging?	Because of its perceived “barbarity”, corporal punishment has long ceased to exist in many countries.	48_4	-1
+C	Should commercial surrogacy be prohibited?	At age one, parents through surrogacy showed greater psychological well-being and adaptation to parenthood than those who conceived naturally; there were no differences in infant temperament.	114_1	-1
+C	Should commercial surrogacy be prohibited?	At age two, parents through surrogacy showed more positive mother–child relationships and less parenting stress on the part of fathers than their natural conception counterparts; there were no differences in child development between these two groups.	114_1	-1
+C	Should commercial surrogacy be prohibited?	At age seven, the surrogacy and egg donation families showed less positive mother–child interaction than the natural conception families, but there were no differences in maternal positive or negative attitudes or child adjustment.	114_1	-1
+C	Should commercial surrogacy be prohibited?	The researchers concluded that the surrogacy families continued to function well.	114_1	-1
+C	Should commercial surrogacy be prohibited?	The citizenship and legal status of the children resulting from surrogacy arrangements can be problematic.	114_1	1
+C	Should commercial surrogacy be prohibited?	This could result in a child being born without citizenship [ref].	114_1	1
+C	Should we ban the production of generic drugs	ACTA has also been criticised by Doctors Without Borders for endangering access to medicines in developing countries [ref].	61_3	-1
+C	Should we ban the production of generic drugs	His replacement, British MEP David Martin, recommended that the Parliament should reject ACTA, stating: The intended benefits of this international agreement are far outweighed by the potential threats to civil liberties.	61_3	-1
+C	Should we ban the production of generic drugs	He continued, Generic medicines are not counterfeited medicines; they are not the fake version of a drug; they are a generic version of a drug, produced either because the patent on the original drug has expired, or because a country has to put in place public health policies, he said.	61_3	-1
+C	Should we ban the production of generic drugs	Arif has stated ACTA would limit the freedom of countries such as India to determine their own medical choices [ref].	61_3	-1
+C	Should we ban the production of generic drugs	In their report A blank cheque for abuse: ACTA & its Impact on Access to Medicines, Médecins Sans Frontières concludes that ACTA has fatal consequences on access to medicines, furthermore that the agreement does nothing to address the problem of poor quality and unsafe medicines and finally that ACTA undermines existing international declarations to protect public health, circumventing the Doha Declaration [ref].	61_3	-1
+C	Should we ban the production of generic drugs	Michael Gylling Nielsen, the executive of the Danish division of Médecins Sans Frontières, has in a statement to the media said that In the end, this is a question of life and death, elaborating his point by mentioning the possible consequenses of the treaty that the hundreds of thousands of people who for example have HIV/AIDS will not get the treatment they need [ref].	61_3	-1
+C	Should we promote the use of wind energy	Wind power is a sustainable and renewable energy, and has a much smaller impact on the environment compared to burning fossil fuels.	121_1	1
+C	Should we promote the use of wind energy	Onshore wind is an inexpensive source of electric power, competitive with or in many places cheaper than coal or gas plants [ref].	121_1	1
+C	Should we promote the use of wind energy	Wind power was widely available and not confined to the banks of fast-flowing streams, or later, requiring sources of fuel.	121_1	1
+C	Should we promote the use of wind energy	Although he later built a wind turbine to supply emergency power to the local Lunatic Asylum, Infirmary and Dispensary of Montrose, the invention never really caught on as the technology was not considered to be economically viable [ref].	121_1	-1
+C	Should we promote the use of wind energy	In a survey conducted by Angus Reid Strategies in October 2007, 89 percent of respondents said that using renewable energy sources like wind or solar power was positive for Canada, because these sources were better for the environment.	121_1	1
+C	Should we promote the use of wind energy	Only 4 percent considered using renewable sources as negative since they can be unreliable and expensive [ref].	121_1	-1
+C	Should we promote the use of wind energy	The results of this survey support those of an earlier Scottish Executive survey 'Public attitudes to the Environment in Scotland 2002', which found that the Scottish public would prefer the majority of their electric power to come from renewables, and which rated wind power as the cleanest source of renewable energy [ref].	121_1	1
+C	Shouldn't alcohol be forbidden	The Alcohol Industry Is Powerful	88_12	-1
+C	Shouldn't alcohol be forbidden	Alcohol Is Endorsed by the Christian Tradition	88_12	-1
+C	Shouldn't alcohol be forbidden	There is not less drunkenness in the Republic, but more.	88_12	-1
+C	Shouldn't alcohol be forbidden	There is not less crime, but more.	88_12	-1
+C	Shouldn't alcohol be forbidden	There is not less insanity, but more.	88_12	-1
+C	Shouldn't alcohol be forbidden	The cost of government is not smaller, but vastly greater.	88_12	-1
+C	Shouldn't alcohol be forbidden	Respect for law has not increased, but diminished.	88_12	-1
+C	Shouldn't alcohol be forbidden	The prohibition of alcohol was such a complete and humiliating failure to our nation that no mainstream politician has advocated restoring it in the many decades that have passed since its repeal.	88_12	-1
+C	Shouldn't alcohol be forbidden	Alcohol itself may be legal, but the things people do under its influence often are not.	88_12	-1
+C	Shouldn't alcohol be forbidden	Moderate Drinking Can Lower Heart Disease Risk - It’s not all alcohol, but the consumption of red wine is thought to lower the risk of cardiovascular disease.	88_12	-1
+C	Shouldn't alcohol be forbidden	It Might Lengthen Your Life - Extreme moderate drinking (one drink a day or less) has been linked to a longer life.	88_12	-1
+C	Shouldn't alcohol be forbidden	With the right healthy approach, it’s possible to enjoy a drink from time to time without significantly harming your health.	88_12	-1
+C	Should you subsidize biofuels	Land-use change arguments against biofuels are based on shifting sands, and neglect the massive contribution that fuel crops such as bioethanol make to Europe's economy, argue Eric Sievers and Rob Vierhout.	89_9	1
+C	Should you subsidize biofuels	European biofuels provide jobs to the poorest communities in Europe, encourage agricultural investments, and provide a reason for farmland to be farmed, thereby helping (without subsidies) to stop a two decade decline in agriculture.	89_9	1
+C	Should we stop the development of the Arctic	They also expressed concerns that oil operations would erode the fragile ecological systems that support wildlife on the tundra of the Arctic plain.	59_2	1
+C	Should women be allowed to participate in war?	They claimed that including women in certain specialized roles could undermine “operational effectiveness” and pose too much risk [ref].	41_6	-1
+C	Should we support animal rights	(2) all living organisms that have a similar capacity for suffering and are able to develop interests (whether humans or animals) have a comparable moral status and	16_11	1
+C	Should we support animal rights	(3), as a middle position, animals have a genuine moral status, although this is subordinate to the moral status of man.	16_11	1
+C	Should we support animal rights	Animals do not have a genuine moral status: they are not deserving of protection for their own sake	16_11	-1
+C	Should we support animal rights	The view that man enjoys a special status from the moral standpoint or that humans are the only living creatures with a morally compelling inherent value has various historic roots	16_11	1
+C	Should we support animal rights	Animals have their own moral status	16_11	1
+C	Should we support animal rights	Animals and humans have a comparable moral status	16_11	1
+C	Should we support animal rights	All living creatures that have interests in the same way have the same moral status.	16_11	1
+C	Should we support animal rights	Singer's position is pathocentric, meaning that he calls for the attribution of an equal moral status to all living creatures with a capacity for feeling.	16_11	1
+C	Should we support animal rights	Analogously to the justification of meat consumption, he nonetheless allows for animal experiments if they cause almost no pain and are essential for the survival of the human being.	16_11	-1
+C	Should we support animal rights	Wolf replies to this point that the specific capability of human beings to moral action should also be applied toward animals exactly because human beings have such capability at their disposal.	16_11	1
+C	Should we support animal rights	2.2 The moral status of animals is subordinate to the moral status of humans	16_11	-1
+C	Should we sympathize with and help professional false disabled beggars	The “fake homeless” trick other people into giving them money, and reports suggest that these people are becoming increasingly widespread.	110_10	-1
+C	Should we sympathize with and help professional false disabled beggars	Homelessness charities say the individuals that people like Ashley and Cambridge police are taking action against may well have homes, but could have complex and chaotic lives that led to them begging on the streets.	110_10	1
+C	Should performance-enhancing drugs be allowed in professional sports?	These risks are further increased when, as they often do, athletes take steroids alongside other drugs, causing significantly more damage to their bodies [ref].	23_6	-1
+C	Should performance-enhancing drugs be allowed in professional sports?	The effect of anabolic steroids on the heart can cause myocardial infarction and strokes [ref].	23_6	-1
+C	Should performance-enhancing drugs be allowed in professional sports?	Conditions pertaining to hormonal imbalances such as gynecomastia and testicular size reduction may also be caused by AAS [ref].	23_6	-1
+C	Should performance-enhancing drugs be allowed in professional sports?	Ergogenic uses for AAS in sports, racing, and bodybuilding as performance-enhancing drugs are controversial because of their adverse effects and the potential to gain unfair advantage in physical competitions.	23_6	-1
+C	Should performance-enhancing drugs be allowed in professional sports?	High doses of oral AAS compounds can cause liver damage [ref].	23_6	-1
+C	Should performance-enhancing drugs be allowed in professional sports?	Other studies have suggested that antisocial personality disorder is slightly more likely among AAS users than among non-users (Pope & Katz, 1994) [ref].	23_6	-1
+C	Should performance-enhancing drugs be allowed in professional sports?	Bipolar dysfunction [ref], substance dependency, and conduct disorder have also been associated with AAS use [ref].	23_6	-1
+C	Should performance-enhancing drugs be allowed in professional sports?	AAS consumption disrupts the hypothalamic–pituitary–gonadal axis (HPG axis) in males [ref].	23_6	-1
+C	Should we ban smoking in public places	Laws implementing bans on indoor smoking have been introduced by many countries in various forms over the years, with some legislators citing scientific evidence that shows tobacco smoking is harmful to the smokers themselves and to those inhaling second-hand smoke.	65_4	1
+C	Should we ban smoking in public places	In addition such laws may reduce health care costs [ref], improve work productivity, and lower the overall cost of labour in the community thus protected, making that workforce more attractive for employers.	65_4	1
+C	Should we ban smoking in public places	Additional rationales for smoking restrictions include reduced risk of fire in areas with explosive hazards; cleanliness in places where food, pharmaceuticals, semiconductors, or precision instruments and machinery are produced; decreased legal liability; potentially reduced energy use via decreased ventilation needs; reduced quantities of litter; healthier environments; and giving smokers incentive to quit [ref].	65_4	1
+C	Should we ban smoking in public places	The World Health Organization considers smoking bans to have an influence to reduce demand for tobacco by creating an environment where smoking becomes increasingly more difficult and to help shift social norms away from the acceptance of smoking in everyday life.	65_4	1
+C	Should we ban smoking in public places	Along with tax measures, cessation measures, and education, smoking bans are viewed by public health experts as an important element in reducing smoking rates and promoting positive health outcomes.	65_4	1
+C	Should we ban smoking in public places	Research has generated evidence that second-hand smoke causes the same problems as direct smoking, including lung cancer, cardiovascular disease, and lung ailments such as emphysema, bronchitis, and asthma [ref].	65_4	1
+C	Should we ban smoking in public places	Restrictions upon smoking in bars and restaurants can substantially improve the air quality in such establishments.	65_4	1
+C	Should we ban smoking in public places	Research has also shown that improved air quality translates to decreased toxin exposure among employees [ref].	65_4	1
+C	Should we ban smoking in public places	They stated that There is strong evidence supporting smoking bans and restrictions as effective public health interventions aimed at decreasing exposure to secondhand smoke [ref].	65_4	1
+C	Should we ban smoking in public places	A 2009 report by the Institute of Medicine concluded that smoking bans reduced the risk of coronary heart disease and heart attacks, but the report's authors were unable to identify the magnitude of this reduction [ref].	65_4	1
+C	Should we ban smoking in public places	Institute of Medicine (IOM) convened by the Center for Disease Control (CDC) found out that there are cardiovascular effects from exposure to secondhand smoke.	65_4	1
+C	Should we ban smoking in public places	A 2010 study from the US used huge nationally representative databases to compare smoking-restricted areas with control areas and found no associations between smoking bans and short-term declines in heart attack rates.	65_4	-1
+C	Should we ban smoking in public places	Smoking bans are generally acknowledged to reduce rates of smoking; smoke-free workplaces reduce smoking rates among workers [ref], and restrictions upon smoking in public places reduce general smoking rates through a combination of stigmatisation and reduction in the social cues for smoking [ref].	65_4	1
+C	Should we ban smoking in public places	Smoking restrictions may make it easier for smokers to quit.	65_4	1
+C	Should we ban smoking in public places	Restaurant smoking restrictions may help to stop young people from becoming habitual smokers.	65_4	1
+C	Should we ban smoking in public places	The majority of these government and academic studies have found that there is no negative economic impact associated with smoking restrictions and many findings that there may be a positive effect on local businesses [ref].	65_4	1
+C	Should we ban smoking in public places	Sen also pointed out the heavy costs that smoking inevitably imposes on every society which grants smokers unrestricted access to public services (which, Sen noted, every society that is not monstrously unforgiving would do) [ref].	65_4	1
+C	Should we ban smoking in public places	They argued it was cruel to deny patients cigarettes [ref].	65_4	-1
+C	Should we ban smoking in public places	Prohibiting smoking in all areas, these critics argue, would eliminate the competitive advantage of these establishments.	65_4	-1
+C	Shouldn't animal experiments be banned	While I tend towards the viewpoint that animal testing is morally wrong, I would have to support a limited amount of animal experimentation for the development of medicines.	75_9	-1
+C	Shouldn't animal experiments be banned	Opponents of such research argue that humans have no right to subject animals to this kind of trauma, and that the lives of all creatures should be respected.	75_9	1
+C	Shouldn't animal experiments be banned	In conclusion, it seems to me that it would be wrong to ban testing on animals for vital medical research until equally effective alternatives have been developed.	75_9	-1
+C	Should physical education be compulsory	The effect on self-esteem and well-being as a product of sport can only be experienced by certain children if forced by their schools to first participate.	42_4	1
+C	Should physical education be compulsory	A recent report to the European Parliament declared 'physical education is a springboard for involvement in sport and physical activities throughout life’[1].	42_4	1
+C	Should physical education be compulsory	Compulsory physical education is the only means by which all children can be forced to appreciate such advantages [ref].	42_4	1
+C	Should physical education be compulsory	Compulsory physical education does not risk unnecessary and costly injury.	42_4	1
+C	Should physical education be compulsory	Physical Education is an important part of holistic schooling.	42_4	1
+C	Should we fund children in developing countries?	Bellamy’s “rights-based approach” (focusing on children’s “rights” as opposed to their simple physical survival), Horton said, has also been devastating to children, an estimated 10 million of whom die from preventable causes before the age of five every year.	91_10	1
+C	Should we fund children in developing countries?	But it would be easy for the goal of saving children to become lost in the politics of the U.N., especially with its increasingly anti-American atmosphere.	91_10	-1
+C	Is the advertisement harmful?	An argument in favour of junk food advertising is that children should be made aware of the nature of marketing strategies from a young age so that they become discerning consumers.	37_5	-1
+C	Is the advertisement harmful?	Instead of banning the ads, the child should be capable enough of making a choice [ref].	37_5	-1
+C	Is the advertisement harmful?	Another argument is that some advertisements may create a positive correlation to a healthy diet or lifestyle products.	37_5	-1
+C	Is the advertisement harmful?	There is a concern that children do not understand the motivation behind ads.	37_5	1
+C	Should we legalize the sale of human organs?	Reports by the World Health Organization show decreased health and economic well-being for those who donate organs through transplant tourism.	58_2	-1
+C	Should we legalize the sale of human organs?	Impoverished donors' economic outcomes are no better than their health outcomes.	58_2	-1
+C	Should we legalize the sale of human organs?	Various solutions have been proposed to staunch the flow of illegal organs around the globe.	58_2	-1
+C	Should we legalize the sale of human organs?	Many people in the United States believe that adopting a system for regulating organ trading similar to Iran's will help to decrease the national shortage of kidneys.	58_2	-1
+C	Shouldn't bullfighting be banned	No one would criticise it, he says from his small office.	54_10	-1
+C	Shouldn't bullfighting be banned	We all think it is ridiculous to maintain something just because it has always been a part of Spanish tradition.	54_10	1
+C	Shouldn't bullfighting be banned	A cruel tradition like bullfighting just does not belong in a modern society any more.	54_10	1
+C	Shouldn't bullfighting be banned	I think that dying as an offer to the arts is the best thing that can happen to a bull.	54_10	-1
+C	Shouldn't bullfighting be banned	Sacrificing the bull is just part of the tradition, she explains.	54_10	-1
+C	Should we implement the network real-name system	we must admit that using the internet real name system to social media, especially social networking site, which would decrease the rate of cyber crime by large margin.	56_9	1
+C	Should we implement the network real-name system	However, on the other hand, we need to admit that applying such system still have its limitations and risks.	56_9	-1
+C	Should we implement the network real-name system	subjectively, I recon that it is necessary to apply this system to deal with more and more frequently internet crime and privacy infringement.	56_9	1
+C	Should we introduce flogging?	The Founders believed whipping and other forms of corporal punishment effectively promoted pro-social and discouraged anti-social behavior.	48_6	1
+C	Should we introduce flogging?	The torture of choice of the dictatorship of Singapore was flogging by rattan cane, which elicits the screams satisfying to torturer and scars the torturee physically and mentally for life.	48_6	-1
+C	Should we introduce flogging?	Torture is an act of savagery as old as civilisation, he wrote.	48_6	-1
+C	Should we introduce flogging?	The only civilised punishment is loss of property (a fine) and/or loss of freedom (a jail sentence).	48_6	-1
+C	Should sperm and egg donors remain anonymous	The rise of consumer genetic tests — which allow people to connect with relatives they never knew they had, including some who never intended to be found in the first place — is forcing sperm donation clinics to confront the fact that it is now virtually impossible to guarantee anonymity to their clients.	104_4	1
+C	Should sperm and egg donors remain anonymous	“There’s no doubt that it’s easier to recruit a potential sperm donor if you tell him he can be anonymous,” said Fredrik Andreasson, a top executive at Seattle Sperm Bank, which has revised its own contracts.	104_4	1
+C	Should sperm and egg donors remain anonymous	The concept of anonymity has been hammered into the model of sperm donation since its inception.	104_4	1
+C	Should sperm and egg donors remain anonymous	The fear, apparently, was psychological — it was believed this might cause “irreparable harm” to the marriage and to the child.	104_4	1
+C	Should sperm and egg donors remain anonymous	But a spokesman said any uninvited outreach by clients to donors who believed they had been anonymous could be disruptive to the donor’s family for any number of reasons.	104_4	1
+C	Should sperm and egg donors remain anonymous	“I think it’s a very selfish act to try and locate an unknown donor,” said the spokesman, Scott Brown.	104_4	1
+C	Should sperm and egg donors remain anonymous	If a donor gets spooked, he said, because someone reaches out to him through a DNA testing service, it can impact his relationship with the rest of his progeny.	104_4	1
+C	Should sperm and egg donors remain anonymous	For many donors, especially those who worked with cryobanks more than a decade ago, the promise of anonymity has carried great weight.	104_4	1
+C	Should sperm and egg donors remain anonymous	Anonymity has also made it easier for clinics to find willing donors, at least in the United States.	104_4	1
+C	Should sperm and egg donors remain anonymous	The study suggested that prohibiting anonymous sperm donations would lead to a decline in the number of donors and that those who were willing to be identified would likely demand more compensation.	104_4	1
+C	Should sperm and egg donors remain anonymous	As DNA testing services proliferate, and as “people realize how anonymity truly is an illusion now, we could see donor rates drop,” said Dr. Sriram Eleswarapu, a urologist who researchers male infertility at the University of California, Los Angeles.	104_4	1
+C	Should sperm and egg donors remain anonymous	For donors who are willing to be identified, open ID systems can be an appealing option.	104_4	-1
+C	Should sperm and egg donors remain anonymous	“I know that people can get very curious about their ancestry, especially when a link is unknown, so I don’t want to deny the children the option to find out,” one donor told STAT, speaking on condition of anonymity.	104_4	-1
+C	Should sperm and egg donors remain anonymous	“There’s been a slow realization among sperm banks that this generation of children is very tech-savvy: If they want to know who their donor is, they’ll find out,” Scheib said.	104_4	-1
+C	Should sperm and egg donors remain anonymous	Some ethicists and others balk at the idea of donor anonymity in the first place, saying it denies progeny the opportunity to understand issues that are critical to the formation of their own identities.	104_4	-1
+C	Should sperm and egg donors remain anonymous	“There are ethical questions about why a sperm bank in the first place would want to encourage a parent to lie to their child,” said Debbie Kennett, a genealogist based in the United Kingdom who has spoken extensively about donor anonymity.	104_4	-1
+C	Should sperm and egg donors remain anonymous	She thinks that anonymous donations are a fallacy, and can be more harmful than helpful — to both families, and the donors who helped them.	104_4	-1
+C	Should sperm and egg donors remain anonymous	Kramer emphasized that the psychological consequences of children not knowing their biological origins can be scarring.	104_4	-1
+C	Should sperm and egg donors remain anonymous	Donor anonymity, she said, just perpetuates the stigma that’s already associated with infertility — and sperm banks should move past those “empty promises.”	104_4	-1
+C	Should we provide breakfast for school students?	On a federal level, programs like the School Breakfast Program have been adopted in response to research suggesting that consistently eating breakfast improves children’s academic and behavioral outcomes in school.	57_8	1
+C	Should we provide breakfast for school students?	The prevalence of multiple breakfasts, many comprised of sugary and highly caloric items, raises the concern that provision of breakfast at school to all students, some of whom have already consumed a substantial breakfast, may undermine efforts to combat childhood obesity.	57_8	-1
+C	Should we provide breakfast for school students?	This research also exposes the possibility that parents are not aware that their children are eating multiple breakfasts.	57_8	-1
+C	Should we support the universal language	However, with globalization allowing languages and their cultures to spread and dominate on a global scale, it also leads to the extinction of other languages and cultures.	13_7	1
+C	Should we support the universal language	We can say that almost everywhere language is used as an identity to be part of the “world system” now, and the thing about any system that integrates people is that it benefits its architects.	13_7	1
+C	Should we support the universal language	This endangerment of languages can have a drastic effect on the cultures that loses there identity.	13_7	-1
+C	Should we support the universal language	Therefore, it is important for cultures to preserve their language.	13_7	1
