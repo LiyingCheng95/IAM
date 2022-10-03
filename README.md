@@ -14,9 +14,17 @@ All claims data are shown in `all_claims.txt`. We separate them randomly into `t
 - **article_id**
 - **stance_label**: `1` represents support, `-1` represents contest, `0` represents no relation/non-claim.
 
-### Task 2: [Stance Classification](https://github.com/LiyingCheng95/IAM/tree/main/stance)
+### Task 2.1: [Stance Classification](https://github.com/LiyingCheng95/IAM/tree/main/stance)
 
 We filter all claim sentences from the data shown in Task 1, and also have `train/dev/test.txt`. The data format is the same as shown previously.
+
+### Task 2.2: [Stance Classification - Chinese version](https://github.com/LiyingCheng95/IAM/tree/main/stance_Chinese)
+
+Here, we also provide a Chinese stance classification dataset, which was used in [NLPCC 2021 shared task Track 1](https://github.com/AIDebater/Argumentative-Text-Understanding-for-AI-Debater-NLPCC2021). There are only `train.txt` and `test.txt`, which has 3 columns:
+
+- **topic_sentence**
+- **candidate_sentence**
+- **stance_label**: `Support`, `Against`, 'Neutral'.
 
 ### Task 3: [Evidence Extraction](https://github.com/LiyingCheng95/IAM/tree/main/evidence)
 
@@ -55,5 +63,12 @@ For sentence pair classification models, simply train the model using ```python 
   author={Cheng, Liying and Bing, Lidong and He, Ruidan and Yu, Qian and Zhang, Yan and Si, Luo},
   booktitle={Proceedings of ACL},
   year={2022}
+}
+
+@@inproceedings{yuan2021overview,
+  title={Overview of Argumentative Text Understanding for AI Debater Challenge},
+  author={Yuan, Jian and Cheng, Liying and He, Ruidan and Li, Yinzi and Bing, Lidong and Wei, Zhongyu and Liu, Qin and Shen, Chenhui and Zhang, Shuonan and Sun, Changlong and others},
+  booktitle={Proceedings of NLPCC},
+  year={2021}
 }
 ```
