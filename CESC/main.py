@@ -18,7 +18,7 @@ def clf_report(labels, preds):
 test_df = pd.read_csv('test.txt', sep='\t', header=None, quoting=csv.QUOTE_NONE)
 test_df.columns = ['claim_labels', 'text_a', 'text_b', 'id', 'labels']
 test_df = test_df[['text_a', 'text_b', 'labels']]
-model = ClassificationModel('bert', 'outputs/best_model/')
+model = ClassificationModel('roberta', 'outputs/best_model/')
 result, model_outputs, wrong_predictions = model.eval_model(test_df, clf_report=clf_report)
 
 preds = list(np.argmax(model_outputs, axis=-1))
@@ -27,7 +27,7 @@ preds = [label_map[x] for x in preds]
 
 with open('outputs/claims_stance_result.txt', 'w') as f:
 	for x in preds:
-	    f.write(x+'\n')
+	    f.write(str(x) + '\n')
 
 
 
