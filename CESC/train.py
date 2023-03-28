@@ -35,7 +35,7 @@ train_args = {
     'evaluate_during_training_verbose': True,
     'max_seq_length': 128,
     'num_train_epochs': 10,
-    'train_batch_size': 32,
+    'train_batch_size': 128,
     'labels_list': [0, 1, -1],
     'use_multiprocessing': False,
     'use_multiprocessing_for_evaluation': False,
