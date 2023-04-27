@@ -24,7 +24,7 @@ Here, we also provide a Chinese stance classification dataset, which was used in
 
 - **topic_sentence**
 - **candidate_sentence**
-- **stance_label**: `Support`, `Against`, 'Neutral'.
+- **stance_label**: `Support`, `Against`, `Neutral`.
 
 ### Task 3: [Evidence Extraction](https://github.com/LiyingCheng95/IAM/tree/main/evidence)
 
